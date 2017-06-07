@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World - gmat</p>'; ?> 
+ <?php echo '<p>Hello World - tod-gmat</p>'; ?> 
  </body>
 </html>
